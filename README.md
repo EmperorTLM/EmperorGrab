@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://raw.githubusercontent.com/Rdmo1/images/ef843c19b7dc2f65c6ace3d763c521d6218d7269/Hazard-Token-Grabber-V3/HazardV3.jpg">
+<img src="https://github.com/addi00000/empyrean/blob/main/img/footer.png">
   </kbd>
 </p>
 
