@@ -108,6 +108,6 @@ config = {
 </p>
 <p align="center"> 
   <kbd>
-<img src="https://camo.githubusercontent.com/b4909d8c45134b255c5e0c959cbca68f655d044e944c39fdcd91bbbb5d58eb1e/68747470733a2f2f692e646973636f72642e66722f5053532e706e67">
+<img src="[https://camo.githubusercontent.com/b4909d8c45134b255c5e0c959cbca68f655d044e944c39fdcd91bbbb5d58eb1e/68747470733a2f2f692e646973636f72642e66722f5053532e706e67](https://cdn.discordapp.com/attachments/1006899534078685254/1030389613765857301/IMG_20221014_160015.jpg)">
   </kbd>
 </p>
