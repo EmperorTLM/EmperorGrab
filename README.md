@@ -24,7 +24,7 @@ CODE 🟩
 </h2>
 
 **NOTE:** \
-- `Please star it if you like it, if we hit 10 stars i'll add **Discord debit/card info** ⭐`
+- `Please star it if you like it, if we hit 10 stars i'll add ```Discord debit/card info```⭐`
 
 ---
 
