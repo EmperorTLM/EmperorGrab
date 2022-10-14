@@ -50,9 +50,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 - `Discord Injection ( you get there password if they change it )`🟢
 - `All Passwords, Cookies and History from Google`🟢
 
-## <img src="https://raw.githubusercontent.com/Rdmo1/images/master/Hazard-Token-Grabber-V3/info.png">
 
----
 
 ## <a id="setup"></a> 📁 〢 Setting up Hazard Token Grabber.V3
 
