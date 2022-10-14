@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://github.com/addi00000/empyrean/blob/main/img/footer.png">
+<img src="">
   </kbd>
 </p>
 
@@ -19,14 +19,12 @@
 <h2 align="center">
   Hazard-Token-Grabber-V3 was made with
 
-Love 🚫 Code ✅
+CODE 🟩
 
 </h2>
 
 **NOTE:** \
 Hazard was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
-
-> [Why HazardV3 won't be more OP](https://github.com/Rdmo1/Hazard-Token-Grabber-V3/issues/314#issuecomment-1133918906) ┋[Want an even better grabber?](#premium) ┋ [Why choose hazard V3?](#why_hazard)
 
 ---
 
@@ -40,7 +38,6 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 - [🌟・Todo/Enhancements](#enhancements)
 - [💎・Premium](#premium)
 - [📝・Changelog](#changelog)
-- [🤓・Dear skids](#skids)
 
 ## <a id="features"></a>🔰 〢 Features
 
@@ -296,17 +293,3 @@ v1.6.0 ⋮ 2022-04-08
 + formatted code
 ```
 
-## <a id="skids"></a>🤓 〢 Dear Skids
-
-We all know you cant code for shit but skidding peoples hard work, is just not it \
-Profiting from it is just even more f\*cked up \
-I hope you end up on the streets begging for spare change
-
-<br>
-
-<p align="center">
-🌟 <b>Enjoyed Hazard Token Grabber V3?</b> Consider dropping a star :)
-<br>
-Made alone by Rdmo1
-<br>
-<a href=#top>Back to Top</a></p>
