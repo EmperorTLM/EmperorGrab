@@ -39,17 +39,17 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 ## <a id="features"></a>🔰 〢 Features
 
 ```
-> Anti-vm/Anti-debug
-> Add to startup
-> Hides itself
-> Options are configurable
-> Pretty Fast Even if it Was Made With Python
-> Windows Product Key & Build Info
-> IP & Geolocation. (Country, City, Google Maps Location)
-> A screenshot of all their monitors
-> All valid/working discord tokens. (Bypasses BetterDiscord, Token Protector and Discord's new encryption)
-> Their Passwords & Credit Cards for Discord (updates when they change it)
-> All Passwords, Cookies and History from Google
+> `Anti-vm/Anti-debug` 🟢
+> `Add to startup` 🟢
+> `Hides itself`🟢
+> `Options are configurable`🟢
+> `Pretty Fast Even if it Was Made With Python`🟢
+> `Windows Product Key & Build Info`🟢
+> `IP & Geolocation. (Country, City, Google Maps Location)`🟢
+> `A screenshot of all their monitors`🟢
+> `All valid/working discord tokens. (Bypasses BetterDiscord, Token Protector and Discord's new encryption)`🟢
+> `Discord Injection ( you get there password if they change it )`🟢
+> `All Passwords, Cookies and History from Google`🟢
 > + More!
 ```
 
