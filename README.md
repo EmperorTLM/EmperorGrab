@@ -31,7 +31,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 ## <a id="content"></a>🌐 〢 Content
 
 - [🔰・Features](#features)
-- [🌌・Discord](https://cheataway.com/invite)
+- [🌌・Discord](https://discord.gg/VC3N3AXfgF)
 - [🎉・Setting up Hazard Token Grabber.V3](#setup)
 - [⚙・Config](#config)
 - [🔍・Screenshot](#screenshot)
