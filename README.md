@@ -24,7 +24,7 @@ CODE 🟩
 </h2>
 
 **NOTE:** \
-Hazard was made for educational purposes, therefor all consequences caused by your actions are **your** responsibility and accountability.
+- `Please star it if you like it, if we hit 10 stars i'll add **Discord debit/card info** ⭐`
 
 ---
 
