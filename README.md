@@ -93,8 +93,3 @@ config = {
 <img src="https://cdn.discordapp.com/attachments/1030360968473100331/1030404106134749244/IMG_20221014_165751.png">
   </kbd>
 </p>
-<p align="center"> 
-  <kbd>
-<img src="https://cdn.discordapp.com/attachments/1006899534078685254/1030389613765857301/IMG_20221014_160015.jpg">
-  </kbd>
-</p>
