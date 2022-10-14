@@ -38,7 +38,6 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 
 ## <a id="features"></a>🔰 〢 Features
 
-```
 > `Anti-vm/Anti-debug` 🟢
 > `Add to startup` 🟢
 > `Hides itself`🟢
@@ -51,7 +50,6 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 > `Discord Injection ( you get there password if they change it )`🟢
 > `All Passwords, Cookies and History from Google`🟢
 > + More!
-```
 
 ## <img src="https://raw.githubusercontent.com/Rdmo1/images/master/Hazard-Token-Grabber-V3/info.png">
 
