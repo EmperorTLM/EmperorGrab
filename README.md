@@ -36,7 +36,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 - [⚙・Config](#config)
 - [🔍・Screenshot](#screenshot)
 
-## <a id="features"></a>🔰 〢 Features
+## <a id="features"></a>⚙️ 〢 Features
 
 - `Anti-vm/Anti-debug` 🟢 
 - `Add to startup` 🟢
