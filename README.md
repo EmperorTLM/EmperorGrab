@@ -11,7 +11,11 @@
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/Rdmo1/Hazard-Token-Grabber-V3?style=flat-square">
   <img src="https://img.shields.io/github/last-commit/Rdmo1/Hazard-Token-Grabber-V3?style=flat-square">
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=Rdmo1_Hazard-Token-Grabber-V3&metric=ncloc"/>
+  </a>
+  <a href="https://github.com/Rdmo1">
+    <img src="https://gpvc.arturio.dev/Rdmo1">
+  </a>
+</p>
   <img src="https://img.shields.io/github/stars/Rdmo1/Hazard-Token-Grabber-V3?color=%02B039&label=Stars&style=flat-square">
   <img src="https://img.shields.io/github/forks/Rdmo1/Hazard-Token-Grabber-V3?color=%02B039&label=Forks&style=flat-square">
 </p>
